@@ -7,9 +7,6 @@ node_modules
 # Ignore a pasta uploads
 uploads
 
-# Ignore todos os arquivos de texto
-*.txt
-
 # Ignore arquivos relacionados às chaves de API
 .env
 
